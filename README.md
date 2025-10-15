@@ -4,7 +4,7 @@
 Code Review Assistant is a full-stack web application designed to automate and streamline the code review process for developers and teams.  
 It leverages modern technologies to provide fast, AI-powered feedback on code submissions, helping users improve code quality and accelerate development cycles.
 
-Full project demo here:
+Project demo :
 https://drive.google.com/file/d/1XQhaMTJ7bdIRof8jbrXRgsVlka7rW2mX/view?usp=drivesdk
 
 ---
