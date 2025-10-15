@@ -47,6 +47,11 @@ Copy `.env.example` to `.env` and fill in your Supabase and Groq keys.
 ### 2️⃣ Supabase Table SQL
 Run the following in your Supabase SQL Editor:
 
+Demo Video
+
+Watch the full project demo here:
+https://drive.google.com/file/d/1XQhaMTJ7bdIRof8jbrXRgsVlka7rW2mX/view?usp=drivesdk
+
 ```sql
 create table if not exists reviews (
   id uuid primary key default gen_random_uuid(),
