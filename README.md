@@ -4,6 +4,9 @@
 Code Review Assistant is a full-stack web application designed to automate and streamline the code review process for developers and teams.  
 It leverages modern technologies to provide fast, AI-powered feedback on code submissions, helping users improve code quality and accelerate development cycles.
 
+full project demo here:
+https://drive.google.com/file/d/1XQhaMTJ7bdIRof8jbrXRgsVlka7rW2mX/view?usp=drivesdk
+
 ---
 
 ## ✨ Key Features
@@ -47,10 +50,7 @@ Copy `.env.example` to `.env` and fill in your Supabase and Groq keys.
 ### 2️⃣ Supabase Table SQL
 Run the following in your Supabase SQL Editor:
 
-Demo Video
 
-Watch the full project demo here:
-https://drive.google.com/file/d/1XQhaMTJ7bdIRof8jbrXRgsVlka7rW2mX/view?usp=drivesdk
 
 ```sql
 create table if not exists reviews (
