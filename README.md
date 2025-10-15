@@ -1,14 +1,3 @@
-# 🧠 Code Review Assistant
-
-[![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
-[![Supabase](https://img.shields.io/badge/Database-Supabase-lightgreen)](https://supabase.io/)
-[![Groq LLaMA](https://img.shields.io/badge/AI-Groq%20LLaMA-orange)](https://groq.com/)
-[![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38BDF8.svg)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-
----
-
 ## 📘 Project Overview
 
 **Code Review Assistant** is a full-stack web application designed to **automate and streamline code reviews** using **AI-powered feedback**.  
